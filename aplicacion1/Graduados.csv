@@ -1,0 +1,952 @@
+Pais,Codigo Pais,Continente,Tipo de graduado,Anio,Cantidad_Graduados
+Afghanistan,AFG,Asia,Terciaria,2014,24315
+Albania,ALB,Europa,Terciaria,2014,29191
+Algeria,DZA,Africa,Terciaria,2014,311511
+Andorra,AND,Europa,Terciaria,2014,72
+Argentina,ARG,America,Terciaria,2014,228199
+Armenia,ARM,Asia,Terciaria,2014,36335
+Aruba,ABW,America,Terciaria,2014,223
+Australia,AUS,Oceania,Terciaria,2014,422842
+Austria,AUT,Europa,Terciaria,2014,8198959848
+Azerbaijan,AZE,Asia,Terciaria,2014,47524
+Bahrain,BHR,Asia,Terciaria,2014,5466
+Bangladesh,BGD,Asia,Terciaria,2014,329181
+Belarus,BLR,Europa,Terciaria,2014,134934
+Belgium,BEL,Europa,Terciaria,2014,110888
+Benin,BEN,Africa,Terciaria,2014,5812
+Bermuda,BMU,America,Terciaria,2014,94
+Bosnia and Herzegovina,BIH,Europa,Terciaria,2014,21368
+Botswana,BWA,Africa,Terciaria,2014,6549
+Brazil,BRA,America,Terciaria,2014,1097494
+Brunei Darussalam,BRN,Asia,Terciaria,2014,2965
+Bulgaria,BGR,Europa,Terciaria,2014,63373
+Burkina Faso,BFA,Africa,Terciaria,2014,14980
+Chile,CHL,America,Terciaria,2014,191141
+China,CHN,Asia,Terciaria,2014,11380503
+Colombia,COL,America,Terciaria,2014,359607
+Costa Rica,CRI,America,Terciaria,2014,46341
+Croatia,HRV,Europa,Terciaria,2014,35191
+Cuba,CUB,America,Terciaria,2014,105293
+Cyprus,CYP,Europa,Terciaria,2014,7763
+Czech Republic,CZE,Europa,Terciaria,2014,104671
+Denmark,DNK,Europa,Terciaria,2014,70246
+Dominican Republic,DOM,America,Terciaria,2014,41527
+Ecuador,ECU,America,Terciaria,2014,99429
+El Salvador,SLV,America,Terciaria,2014,22976
+Eritrea,ERI,Africa,Terciaria,2014,2713
+Estonia,EST,Europa,Terciaria,2014,10190
+Ethiopia,ETH,Africa,Terciaria,2014,110692
+Finland,FIN,Europa,Terciaria,2014,53878
+France,FRA,Europa,Terciaria,2014,741044
+Georgia,GEO,Asia,Terciaria,2014,20408
+Ghana,GHA,Africa,Terciaria,2014,79345
+Greece,GRC,Europa,Terciaria,2014,67310
+Guatemala,GTM,America,Terciaria,2014,26899
+Guinea,GIN,Africa,Terciaria,2014,32755
+Honduras,HND,America,Terciaria,2014,21994
+Hungary,HUN,Europa,Terciaria,2014,72465
+India,IND,Asia,Terciaria,2014,7741584
+Indonesia,IDN,Asia,Terciaria,2014,948638
+Ireland,IRL,Europa,Terciaria,2014,64955
+Italy,ITA,Europa,Terciaria,2014,374353
+Japan,JPN,Asia,Terciaria,2014,980726
+Kazakhstan,KAZ,Asia,Terciaria,2014,238013
+Lao PDR,LAO,Asia,Terciaria,2014,26508
+Latvia,LVA,Europa,Terciaria,2014,17345
+Lesotho,LSO,Africa,Terciaria,2014,5363
+Liechtenstein,LIE,Europa,Terciaria,2014,271
+Lithuania,LTU,Europa,Terciaria,2014,33130
+Luxembourg,LUX,Europa,Terciaria,2014,1847
+Madagascar,MDG,Africa,Terciaria,2014,29350
+Malaysia,MYS,Asia,Terciaria,2014,350639
+Maldives,MDV,Asia,Terciaria,2014,785
+Malta,MLT,Europa,Terciaria,2014,3924
+Mexico,MEX,America,Terciaria,2014,588692
+Moldova,MDA,Europa,Terciaria,2014,32923
+Mongolia,MNG,Asia,Terciaria,2014,33591
+Morocco,MAR,Africa,Terciaria,2014,135732
+Mozambique,MOZ,Africa,Terciaria,2014,13133
+Namibia,NAM,Africa,Terciaria,2014,4738
+Nepal,NPL,Asia,Terciaria,2014,58802
+Netherlands,NLD,Europa,Terciaria,2014,141270
+New Zealand,NZL,Oceania,Terciaria,2014,7005516667
+Norway,NOR,Europa,Terciaria,2014,47742
+Oman,OMN,Asia,Terciaria,2014,18462
+Panama,PAN,America,Terciaria,2014,26923
+Philippines,PHL,Asia,Terciaria,2014,585288
+Poland,POL,Europa,Terciaria,2014,557769
+Portugal,PRT,Europa,Terciaria,2014,88503
+Puerto Rico,PRI,America,Terciaria,2014,34655
+Qatar,QAT,Asia,Terciaria,2014,2569
+Romania,ROU,Europa,Terciaria,2014,153515
+Russian Federation,RUS,Europa,Terciaria,2014,1732208
+Rwanda,RWA,Africa,Terciaria,2014,13732
+Saudi Arabia,SAU,Asia,Terciaria,2014,148841
+Serbia,SRB,Europa,Terciaria,2014,50728
+Seychelles,SYC,Africa,Terciaria,2014,383
+Slovak Republic,SVK,Europa,Terciaria,2014,66194
+Slovenia,SVN,Europa,Terciaria,2014,184025
+South Africa,ZAF,Africa,Terciaria,2014,199821
+Spain,ESP,Europa,Terciaria,2014,443321
+Sri Lanka,LKA,Asia,Terciaria,2014,40637
+St. Lucia,LCA,America,Terciaria,2014,814
+Sudan,SDN,Africa,Terciaria,2014,123068
+Switzerland,CHE,Europa,Terciaria,2014,85750
+Syrian Arab Republic,SYR,Asia,Terciaria,2014,53589
+Tajikistan,TJK,Asia,Terciaria,2014,40175
+Thailand,THA,Asia,Terciaria,2014,345899
+Tunisia,TUN,Africa,Terciaria,2014,65332
+Turkey,TUR,Europa,Terciaria,2014,733237
+Ukraine,UKR,Europa,Terciaria,2014,593803
+United Arab Emirates,ARE,Asia,Terciaria,2014,28553
+United Kingdom,GBR,Africa,Terciaria,2014,772362
+United States,USA,America,Terciaria,2014,3813956
+Uruguay,URY,America,Terciaria,2014,10447
+Uzbekistan,UZB,Asia,Terciaria,2014,63503
+Vietnam,VNM,Asia,Terciaria,2014,420607
+West Bank and Gaza,PSE,Asia,Terciaria,2014,37383
+Albania,ALB,Europa,Terciaria,2015,33529
+Algeria,DZA,Africa,Terciaria,2015,287914
+Andorra,AND,Europa,Terciaria,2015,47
+Angola,AGO,Africa,Terciaria,2015,12614
+Argentina,ARG,America,Terciaria,2015,235555
+Armenia,ARM,Asia,Terciaria,2015,35128
+Aruba,ABW,America,Terciaria,2015,142
+Australia,AUS,Oceania,Terciaria,2015,363709
+Austria,AUT,Europa,Terciaria,2015,835870873
+Azerbaijan,AZE,Asia,Terciaria,2015,48021
+Bahrain,BHR,Asia,Terciaria,2015,5691
+Belarus,BLR,Europa,Terciaria,2015,127520
+Belgium,BEL,Europa,Terciaria,2015,112406
+Belize,BLZ,America,Terciaria,2015,1699
+Benin,BEN,Africa,Terciaria,2015,14877
+Bermuda,BMU,America,Terciaria,2015,114
+Bosnia and Herzegovina,BIH,Europa,Terciaria,2015,20589
+Botswana,BWA,Africa,Terciaria,2015,15594
+Brazil,BRA,America,Terciaria,2015,1226212
+British Virgin Islands,VGB,America,Terciaria,2015,186
+Brunei Darussalam,BRN,Asia,Terciaria,2015,2768
+Bulgaria,BGR,Europa,Terciaria,2015,62718
+Burkina Faso,BFA,Africa,Terciaria,2015,15664
+Cambodia,KHM,Asia,Terciaria,2015,48772
+Cameroon,CMR,Africa,Terciaria,2015,73726
+Chile,CHL,America,Terciaria,2015,211644
+China,CHN,Asia,Terciaria,2015,11923653
+Colombia,COL,America,Terciaria,2015,374738
+Costa Rica,CRI,America,Terciaria,2015,49778
+Croatia,HRV,Europa,Terciaria,2015,36144
+Cuba,CUB,America,Terciaria,2015,84139
+Cyprus,CYP,Europa,Terciaria,2015,7941
+Czech Republic,CZE,Europa,Terciaria,2015,98119
+Denmark,DNK,Europa,Terciaria,2015,74428
+Dominican Republic,DOM,America,Terciaria,2015,42982
+Ecuador,ECU,America,Terciaria,2015,145058
+El Salvador,SLV,America,Terciaria,2015,22994
+Estonia,EST,Europa,Terciaria,2015,10491
+Finland,FIN,Europa,Terciaria,2015,56829
+France,FRA,Europa,Terciaria,2015,752068
+Georgia,GEO,Asia,Terciaria,2015,22214
+Ghana,GHA,Africa,Terciaria,2015,67472
+Grenada,GRD,America,Terciaria,2015,2107
+Guatemala,GTM,America,Terciaria,2015,33680
+Honduras,HND,America,Terciaria,2015,21481
+Hungary,HUN,Europa,Terciaria,2015,68485
+India,IND,Asia,Terciaria,2015,8428836
+Indonesia,IDN,Asia,Terciaria,2015,941038
+Ireland,IRL,Europa,Terciaria,2015,67303
+Italy,ITA,Europa,Terciaria,2015,368533
+Japan,JPN,Asia,Terciaria,2015,984499
+Jordan,JOR,Asia,Terciaria,2015,69704
+Kazakhstan,KAZ,Asia,Terciaria,2015,241472
+Kyrgyz Republic,KGZ,Asia,Terciaria,2015,53985
+Lao PDR,LAO,Asia,Terciaria,2015,39817
+Latvia,LVA,Europa,Terciaria,2015,17021
+Lesotho,LSO,Africa,Terciaria,2015,5920
+Liechtenstein,LIE,Europa,Terciaria,2015,283
+Lithuania,LTU,Europa,Terciaria,2015,32205
+Luxembourg,LUX,Europa,Terciaria,2015,2054
+Madagascar,MDG,Africa,Terciaria,2015,26257
+Malaysia,MYS,Asia,Terciaria,2015,362806
+Malta,MLT,Europa,Terciaria,2015,3953
+Mauritania,MRT,Africa,Terciaria,2015,2770
+Mexico,MEX,America,Terciaria,2015,615106
+Moldova,MDA,Europa,Terciaria,2015,31459
+Mongolia,MNG,Asia,Terciaria,2015,35055
+Morocco,MAR,Africa,Terciaria,2015,155798
+Mozambique,MOZ,Africa,Terciaria,2015,14512
+New Zealand,NZL,Oceania,Terciaria,2015,72746
+Norway,NOR,Europa,Terciaria,2015,48212
+Oman,OMN,Asia,Terciaria,2015,18605
+Panama,PAN,America,Terciaria,2015,26031
+Poland,POL,Europa,Terciaria,2015,516675
+Portugal,PRT,Europa,Terciaria,2015,74757
+Puerto Rico,PRI,America,Terciaria,2015,52299
+Qatar,QAT,Asia,Terciaria,2015,3234
+Romania,ROU,Europa,Terciaria,2015,133478
+Russian Federation,RUS,Europa,Terciaria,2015,1706754
+Rwanda,RWA,Africa,Terciaria,2015,17519
+Saudi Arabia,SAU,Asia,Terciaria,2015,185122
+Serbia,SRB,Europa,Terciaria,2015,50501
+Seychelles,SYC,Africa,Terciaria,2015,405
+Slovak Republic,SVK,Europa,Terciaria,2015,61054
+Slovenia,SVN,Europa,Terciaria,2015,18631
+South Africa,ZAF,Africa,Terciaria,2015,208971
+Spain,ESP,Europa,Terciaria,2015,438616
+Sri Lanka,LKA,Asia,Terciaria,2015,46337
+St. Lucia,LCA,America,Terciaria,2015,944
+Sweden,SWE,Europa,Terciaria,2015,78244
+Switzerland,CHE,Europa,Terciaria,2015,86178
+Syrian Arab Republic,SYR,Asia,Terciaria,2015,59116
+Tajikistan,TJK,Asia,Terciaria,2015,42964
+Thailand,THA,Asia,Terciaria,2015,371412
+Tunisia,TUN,Africa,Terciaria,2015,64612
+Turks and Caicos Islands,TCA,America,Terciaria,2015,107
+Ukraine,UKR,Europa,Terciaria,2015,499993
+United Arab Emirates,ARE,Asia,Terciaria,2015,27893
+United Kingdom,GBR,Africa,Terciaria,2015,740276
+United States,USA,America,Terciaria,2015,3855101
+Uruguay,URY,America,Terciaria,2015,12036
+Uzbekistan,UZB,Asia,Terciaria,2015,68192
+Vietnam,VNM,Asia,Terciaria,2015,585554
+West Bank and Gaza,PSE,Asia,Terciaria,2015,39720
+Zimbabwe,ZWE,Africa,Terciaria,2015,33255
+Algeria,DZA,Africa,Terciaria,2012,257773
+Andorra,AND,Europa,Terciaria,2012,82
+Antigua and Barbuda,ATG,America,Terciaria,2012,254
+Argentina,ARG,America,Terciaria,2012,269410
+Armenia,ARM,Asia,Terciaria,2012,37815
+Aruba,ABW,America,Terciaria,2012,437
+Austria,AUT,Europa,Terciaria,2012,81232
+Azerbaijan,AZE,Asia,Terciaria,2012,47038
+Bangladesh,BGD,Asia,Terciaria,2012,316024
+Belarus,BLR,Europa,Terciaria,2012,126028
+Belgium,BEL,Europa,Terciaria,2012,110419
+Belize,BLZ,America,Terciaria,2012,1785
+Bermuda,BMU,America,Terciaria,2012,113
+Bosnia and Herzegovina,BIH,Europa,Terciaria,2012,20244
+Brazil,BRA,America,Terciaria,2012,1111463
+Brunei Darussalam,BRN,Asia,Terciaria,2012,1939
+Bulgaria,BGR,Europa,Terciaria,2012,64091
+Burkina Faso,BFA,Africa,Terciaria,2012,12140
+Burundi,BDI,Africa,Terciaria,2012,7314
+Central African Republic,CAF,Africa,Terciaria,2012,615
+Chile,CHL,America,Terciaria,2012,147549
+China,CHN,Asia,Terciaria,2012,9135720
+Colombia,COL,America,Terciaria,2012,266413
+Costa Rica,CRI,America,Terciaria,2012,44575
+Croatia,HRV,Europa,Terciaria,2012,39820
+Cuba,CUB,America,Terciaria,2012,145275
+Cyprus,CYP,Europa,Terciaria,2012,6173
+Czech Republic,CZE,Europa,Terciaria,2012,107773
+Denmark,DNK,Europa,Terciaria,2012,58667
+Dominican Republic,DOM,America,Terciaria,2012,41114
+Ecuador,ECU,America,Terciaria,2012,79189
+El Salvador,SLV,America,Terciaria,2012,21666
+Estonia,EST,Europa,Terciaria,2012,11437
+Ethiopia,ETH,Africa,Terciaria,2012,114895
+Finland,FIN,Europa,Terciaria,2012,53296
+France,FRA,Europa,Terciaria,2012,697193
+Georgia,GEO,Asia,Terciaria,2012,17906
+Ghana,GHA,Africa,Terciaria,2012,72071
+Greece,GRC,Europa,Terciaria,2012,66333
+Guyana,GUY,America,Terciaria,2012,1838
+Honduras,HND,America,Terciaria,2012,18024
+Hungary,HUN,Europa,Terciaria,2012,69917
+Iceland,ISL,Europa,Terciaria,2012,4099
+Indonesia,IDN,Asia,Terciaria,2012,867822
+Ireland,IRL,Europa,Terciaria,2012,60022
+Italy,ITA,Europa,Terciaria,2012,374994
+Japan,JPN,Asia,Terciaria,2012,980902
+Jordan,JOR,Asia,Terciaria,2012,62168
+Kyrgyz Republic,KGZ,Asia,Terciaria,2012,49945
+Lao PDR,LAO,Asia,Terciaria,2012,31496
+Latvia,LVA,Europa,Terciaria,2012,21472
+Lesotho,LSO,Africa,Terciaria,2012,6461
+Liberia,LBR,Africa,Terciaria,2012,4390
+Liechtenstein,LIE,Europa,Terciaria,2012,311
+Lithuania,LTU,Europa,Terciaria,2012,42379
+Luxembourg,LUX,Europa,Terciaria,2012,1289
+Malta,MLT,Europa,Terciaria,2012,3463
+Marshall Islands,MHL,Oceania,Terciaria,2012,121
+Mexico,MEX,America,Terciaria,2012,533867
+Moldova,MDA,Europa,Terciaria,2012,35574
+Mozambique,MOZ,Africa,Terciaria,2012,11288
+Myanmar,MMR,Asia,Terciaria,2012,295941
+Namibia,NAM,Africa,Terciaria,2012,5221
+Netherlands,NLD,Europa,Terciaria,2012,152049
+New Zealand,NZL,Oceania,Terciaria,2012,71931
+Norway,NOR,Europa,Terciaria,2012,40346
+Panama,PAN,America,Terciaria,2012,22786
+Philippines,PHL,Asia,Terciaria,2012,522570
+Poland,POL,Europa,Terciaria,2012,638957
+Portugal,PRT,Europa,Terciaria,2012,94264
+Puerto Rico,PRI,America,Terciaria,2012,31929
+Qatar,QAT,Asia,Terciaria,2012,1969
+Romania,ROU,Europa,Terciaria,2012,200106
+Russian Federation,RUS,Europa,Terciaria,2012,1995269
+Rwanda,RWA,Africa,Terciaria,2012,16048
+Saudi Arabia,SAU,Asia,Terciaria,2012,137119
+Senegal,SEN,Africa,Terciaria,2012,32849
+Serbia,SRB,Europa,Terciaria,2012,47523
+Seychelles,SYC,Africa,Terciaria,2012,129
+Slovak Republic,SVK,Europa,Terciaria,2012,72374
+Slovenia,SVN,Europa,Terciaria,2012,20596
+South Africa,ZAF,Africa,Terciaria,2012,183864
+Spain,ESP,Europa,Terciaria,2012,391956
+Sri Lanka,LKA,Asia,Terciaria,2012,27050
+Sudan,SDN,Africa,Terciaria,2012,88979
+Sweden,SWE,Europa,Terciaria,2012,69140
+Syrian Arab Republic,SYR,Asia,Terciaria,2012,58655
+Tajikistan,TJK,Asia,Terciaria,2012,37800
+Thailand,THA,Asia,Terciaria,2012,443648
+Tunisia,TUN,Africa,Terciaria,2012,72807
+Turkey,TUR,Europa,Terciaria,2012,607981
+Ukraine,UKR,Europa,Terciaria,2012,642387
+United Arab Emirates,ARE,Asia,Terciaria,2012,22750
+United Kingdom,GBR,Africa,Terciaria,2012,780606
+United States,USA,America,Terciaria,2012,3308494
+Uzbekistan,UZB,Asia,Terciaria,2012,87160
+Vietnam,VNM,Asia,Terciaria,2012,417436
+West Bank and Gaza,PSE,Asia,Terciaria,2012,32839
+Zimbabwe,ZWE,Africa,Terciaria,2012,15911
+Albania,ALB,Europa,Terciaria,2013,30365
+Algeria,DZA,Africa,Terciaria,2013,255435
+Andorra,AND,Europa,Terciaria,2013,84
+Angola,AGO,Africa,Terciaria,2013,13547
+Argentina,ARG,America,Terciaria,2013,225285
+Armenia,ARM,Asia,Terciaria,2013,38082
+Australia,AUS,Oceania,Terciaria,2013,4016226253
+Austria,AUT,Europa,Terciaria,2013,85278
+Azerbaijan,AZE,Asia,Terciaria,2013,52875
+Belarus,BLR,Europa,Terciaria,2013,137464
+Belgium,BEL,Europa,Terciaria,2013,107884
+Bhutan,BTN,Asia,Terciaria,2013,1629
+Bosnia and Herzegovina,BIH,Europa,Terciaria,2013,21208
+Brunei Darussalam,BRN,Asia,Terciaria,2013,1914
+Bulgaria,BGR,Europa,Terciaria,2013,66423
+Burkina Faso,BFA,Africa,Terciaria,2013,16151
+Burundi,BDI,Africa,Terciaria,2013,8700
+Chile,CHL,America,Terciaria,2013,1762168333
+China,CHN,Asia,Terciaria,2013,9366202
+Colombia,COL,America,Terciaria,2013,344066
+Comoros,COM,Africa,Terciaria,2013,1277
+Costa Rica,CRI,America,Terciaria,2013,44575
+Cuba,CUB,America,Terciaria,2013,133291
+Curacao,CUW,America,Terciaria,2013,201
+Cyprus,CYP,Europa,Terciaria,2013,6354
+Czech Republic,CZE,Europa,Terciaria,2013,99932
+Denmark,DNK,Europa,Terciaria,2013,66467
+Ecuador,ECU,America,Terciaria,2013,91344
+El Salvador,SLV,America,Terciaria,2013,23619
+Estonia,EST,Europa,Terciaria,2013,10867
+Eswatini,SWZ,Africa,Terciaria,2013,2525
+Finland,FIN,Europa,Terciaria,2013,52730
+France,FRA,Europa,Terciaria,2013,726540
+Georgia,GEO,Asia,Terciaria,2013,17683
+Ghana,GHA,Africa,Terciaria,2013,79738
+Greece,GRC,Europa,Terciaria,2013,66220
+Guatemala,GTM,America,Terciaria,2013,20831
+Honduras,HND,America,Terciaria,2013,18667
+Hungary,HUN,Europa,Terciaria,2013,73628
+India,IND,Asia,Terciaria,2013,8846030
+Ireland,IRL,Europa,Terciaria,2013,61297
+Italy,ITA,Europa,Terciaria,2013,361907
+Japan,JPN,Asia,Terciaria,2013,977214
+Kazakhstan,KAZ,Asia,Terciaria,2013,238220
+Kuwait,KWT,Asia,Terciaria,2013,12716
+Kyrgyz Republic,KGZ,Asia,Terciaria,2013,50228
+Lao PDR,LAO,Asia,Terciaria,2013,37384
+Latvia,LVA,Europa,Terciaria,2013,21610
+Lesotho,LSO,Africa,Terciaria,2013,4747
+Lithuania,LTU,Europa,Terciaria,2013,39265
+Luxembourg,LUX,Europa,Terciaria,2013,1569
+Madagascar,MDG,Africa,Terciaria,2013,25264
+Malta,MLT,Europa,Terciaria,2013,3803
+Mexico,MEX,America,Terciaria,2013,563913
+Moldova,MDA,Europa,Terciaria,2013,34806
+Mongolia,MNG,Asia,Terciaria,2013,36831
+Mozambique,MOZ,Africa,Terciaria,2013,10255
+Namibia,NAM,Africa,Terciaria,2013,6062
+Nepal,NPL,Asia,Terciaria,2013,61517
+Netherlands,NLD,Europa,Terciaria,2013,138295
+New Zealand,NZL,Oceania,Terciaria,2013,6841815
+Norway,NOR,Europa,Terciaria,2013,44244
+Oman,OMN,Asia,Terciaria,2013,16675
+Palau,PLW,Oceania,Terciaria,2013,94
+Panama,PAN,America,Terciaria,2013,23752
+Philippines,PHL,Asia,Terciaria,2013,564769
+Poland,POL,Europa,Terciaria,2013,598124
+Portugal,PRT,Europa,Terciaria,2013,94867
+Puerto Rico,PRI,America,Terciaria,2013,34398
+Qatar,QAT,Asia,Terciaria,2013,2284
+Romania,ROU,Europa,Terciaria,2013,172186
+Russian Federation,RUS,Europa,Terciaria,2013,1921834
+Saudi Arabia,SAU,Asia,Terciaria,2013,141196
+Serbia,SRB,Europa,Terciaria,2013,47797
+Seychelles,SYC,Africa,Terciaria,2013,78
+Slovak Republic,SVK,Europa,Terciaria,2013,70031
+Slovenia,SVN,Europa,Terciaria,2013,187765
+South Africa,ZAF,Africa,Terciaria,2013,195269
+Spain,ESP,Europa,Terciaria,2013,407036
+Sri Lanka,LKA,Asia,Terciaria,2013,34923
+St. Lucia,LCA,America,Terciaria,2013,580
+Sudan,SDN,Africa,Terciaria,2013,124494
+Sweden,SWE,Europa,Terciaria,2013,72782
+Switzerland,CHE,Europa,Terciaria,2013,81909
+Syrian Arab Republic,SYR,Asia,Terciaria,2013,58694
+Tajikistan,TJK,Asia,Terciaria,2013,46797
+Tunisia,TUN,Africa,Terciaria,2013,65421
+Ukraine,UKR,Europa,Terciaria,2013,621790
+United Arab Emirates,ARE,Asia,Terciaria,2013,25682
+United Kingdom,GBR,Africa,Terciaria,2013,791945
+United States,USA,America,Terciaria,2013,3784640
+Uruguay,URY,America,Terciaria,2013,11370
+Uzbekistan,UZB,Asia,Terciaria,2013,61014
+Vietnam,VNM,Asia,Terciaria,2013,406068
+West Bank and Gaza,PSE,Asia,Terciaria,2013,35279
+Zimbabwe,ZWE,Africa,Terciaria,2013,13637
+Afghanistan,AFG,Asia,Terciaria,2009,9623
+Albania,ALB,Europa,Terciaria,2009,18327
+Algeria,DZA,Africa,Terciaria,2009,154838
+Antigua and Barbuda,ATG,America,Terciaria,2009,152
+Argentina,ARG,America,Terciaria,2009,207575
+Armenia,ARM,Asia,Terciaria,2009,37312
+Aruba,ABW,America,Terciaria,2009,285
+Australia,AUS,Oceania,Terciaria,2009,326787
+Austria,AUT,Europa,Terciaria,2009,52157
+Azerbaijan,AZE,Asia,Terciaria,2009,50386
+Barbados,BRB,America,Terciaria,2009,2413
+Belarus,BLR,Europa,Terciaria,2009,115879
+Belgium,BEL,Europa,Terciaria,2009,99102
+Benin,BEN,Africa,Terciaria,2009,14638
+Bermuda,BMU,America,Terciaria,2009,139
+Bosnia and Herzegovina,BIH,Europa,Terciaria,2009,17596
+Brazil,BRA,America,Terciaria,2009,1008876
+British Virgin Islands,VGB,America,Terciaria,2009,145
+Brunei Darussalam,BRN,Asia,Terciaria,2009,1683
+Bulgaria,BGR,Europa,Terciaria,2009,57803
+Burkina Faso,BFA,Africa,Terciaria,2009,10174
+Chile,CHL,America,Terciaria,2009,121915
+China,CHN,Asia,Terciaria,2009,7716957
+Colombia,COL,America,Terciaria,2009,160835
+Costa Rica,CRI,America,Terciaria,2009,33796
+Croatia,HRV,Europa,Terciaria,2009,31693
+Cuba,CUB,America,Terciaria,2009,143333
+Cyprus,CYP,Europa,Terciaria,2009,4522
+Czech Republic,CZE,Europa,Terciaria,2009,96207
+Denmark,DNK,Europa,Terciaria,2009,53721
+Djibouti,DJI,Africa,Terciaria,2009,637
+El Salvador,SLV,America,Terciaria,2009,16168
+Estonia,EST,Europa,Terciaria,2009,11489
+Finland,FIN,Europa,Terciaria,2009,43009
+France,FRA,Europa,Terciaria,2009,643259
+Georgia,GEO,Asia,Terciaria,2009,37778
+Guyana,GUY,America,Terciaria,2009,1220
+Hungary,HUN,Europa,Terciaria,2009,68158
+Iceland,ISL,Europa,Terciaria,2009,3450
+Indonesia,IDN,Asia,Terciaria,2009,799368
+Ireland,IRL,Europa,Terciaria,2009,57834
+Jamaica,JAM,America,Terciaria,2009,25477
+Japan,JPN,Asia,Terciaria,2009,1014795
+Kyrgyz Republic,KGZ,Asia,Terciaria,2009,44268
+Lao PDR,LAO,Asia,Terciaria,2009,18988
+Latvia,LVA,Europa,Terciaria,2009,26007
+Lebanon,LBN,Asia,Terciaria,2009,34907
+Liechtenstein,LIE,Europa,Terciaria,2009,212
+Lithuania,LTU,Europa,Terciaria,2009,44658
+Madagascar,MDG,Africa,Terciaria,2009,15656
+Malaysia,MYS,Asia,Terciaria,2009,226808
+Malta,MLT,Europa,Terciaria,2009,2844
+Mexico,MEX,America,Terciaria,2009,451929
+Moldova,MDA,Europa,Terciaria,2009,37117
+Mongolia,MNG,Asia,Terciaria,2009,33007
+Morocco,MAR,Africa,Terciaria,2009,70780
+Mozambique,MOZ,Africa,Terciaria,2009,8866
+Nepal,NPL,Asia,Terciaria,2009,44981
+Netherlands,NLD,Europa,Terciaria,2009,126931
+New Zealand,NZL,Oceania,Terciaria,2009,61075
+Norway,NOR,Europa,Terciaria,2009,35272
+Oman,OMN,Asia,Terciaria,2009,11540
+Panama,PAN,America,Terciaria,2009,21706
+Philippines,PHL,Asia,Terciaria,2009,469654
+Poland,POL,Europa,Terciaria,2009,574972
+Portugal,PRT,Europa,Terciaria,2009,76567
+Puerto Rico,PRI,America,Terciaria,2009,30460
+Qatar,QAT,Asia,Terciaria,2009,1629
+Romania,ROU,Europa,Terciaria,2009,310886
+Russian Federation,RUS,Europa,Terciaria,2009,2064473
+Saudi Arabia,SAU,Asia,Terciaria,2009,123051
+Serbia,SRB,Europa,Terciaria,2009,42598
+Slovak Republic,SVK,Europa,Terciaria,2009,75364
+Slovenia,SVN,Europa,Terciaria,2009,17803
+Spain,ESP,Europa,Terciaria,2009,310452
+Sweden,SWE,Europa,Terciaria,2009,59320
+Switzerland,CHE,Europa,Terciaria,2009,80687
+Syrian Arab Republic,SYR,Asia,Terciaria,2009,52381
+Thailand,THA,Asia,Terciaria,2009,540522
+Timor-Leste,TLS,Asia,Terciaria,2009,4923
+Tunisia,TUN,Africa,Terciaria,2009,66841
+Turkey,TUR,Europa,Terciaria,2009,488803
+Ukraine,UKR,Europa,Terciaria,2009,631025
+United Arab Emirates,ARE,Asia,Terciaria,2009,16746
+United Kingdom,GBR,Africa,Terciaria,2009,674411
+United States,USA,America,Terciaria,2009,2881557
+Uruguay,URY,America,Terciaria,2009,8704
+Uzbekistan,UZB,Asia,Terciaria,2009,83515
+Vietnam,VNM,Asia,Terciaria,2009,224762
+West Bank and Gaza,PSE,Asia,Terciaria,2009,27569
+Albania,ALB,Europa,Terciaria,2010,22358
+Algeria,DZA,Africa,Terciaria,2010,157973
+Antigua and Barbuda,ATG,America,Terciaria,2010,185
+Argentina,ARG,America,Terciaria,2010,208964
+Armenia,ARM,Asia,Terciaria,2010,35002
+Aruba,ABW,America,Terciaria,2010,258
+Australia,AUS,Oceania,Terciaria,2010,353419
+Austria,AUT,Europa,Terciaria,2010,70955
+Azerbaijan,AZE,Asia,Terciaria,2010,51090
+Barbados,BRB,America,Terciaria,2010,2263
+Belarus,BLR,Europa,Terciaria,2010,120197
+Belgium,BEL,Europa,Terciaria,2010,102693
+Benin,BEN,Africa,Terciaria,2010,18177
+Bermuda,BMU,America,Terciaria,2010,95
+Bosnia and Herzegovina,BIH,Europa,Terciaria,2010,18012
+Brazil,BRA,America,Terciaria,2010,1024743
+Brunei Darussalam,BRN,Asia,Terciaria,2010,1675
+Bulgaria,BGR,Europa,Terciaria,2010,60523
+Burkina Faso,BFA,Africa,Terciaria,2010,9484
+Burundi,BDI,Africa,Terciaria,2010,2786
+Cameroon,CMR,Africa,Terciaria,2010,40327
+Chile,CHL,America,Terciaria,2010,120694
+China,CHN,Asia,Terciaria,2010,7863663
+Colombia,COL,America,Terciaria,2010,190250
+Costa Rica,CRI,America,Terciaria,2010,38163
+Croatia,HRV,Europa,Terciaria,2010,34293
+Cuba,CUB,America,Terciaria,2010,148022
+Cyprus,CYP,Europa,Terciaria,2010,5053
+Czech Republic,CZE,Europa,Terciaria,2010,102898
+Denmark,DNK,Europa,Terciaria,2010,54271
+El Salvador,SLV,America,Terciaria,2010,17089
+Eritrea,ERI,Africa,Terciaria,2010,3021
+Estonia,EST,Europa,Terciaria,2010,11439
+Ethiopia,ETH,Africa,Terciaria,2010,102633
+Finland,FIN,Europa,Terciaria,2010,48768
+Georgia,GEO,Asia,Terciaria,2010,17732
+Greece,GRC,Europa,Terciaria,2010,65096
+Guyana,GUY,America,Terciaria,2010,1641
+Honduras,HND,America,Terciaria,2010,15412
+Hungary,HUN,Europa,Terciaria,2010,70358
+Iceland,ISL,Europa,Terciaria,2010,4105
+Indonesia,IDN,Asia,Terciaria,2010,811455
+Ireland,IRL,Europa,Terciaria,2010,58837
+Japan,JPN,Asia,Terciaria,2010,966635
+Kyrgyz Republic,KGZ,Asia,Terciaria,2010,45283
+Latvia,LVA,Europa,Terciaria,2010,26545
+Lebanon,LBN,Asia,Terciaria,2010,34608
+Liberia,LBR,Africa,Terciaria,2010,3161
+Liechtenstein,LIE,Europa,Terciaria,2010,200
+Lithuania,LTU,Europa,Terciaria,2010,45032
+Madagascar,MDG,Africa,Terciaria,2010,15721
+Malta,MLT,Europa,Terciaria,2010,3049
+Mexico,MEX,America,Terciaria,2010,465813
+Moldova,MDA,Europa,Terciaria,2010,34376
+Mongolia,MNG,Asia,Terciaria,2010,34211
+Morocco,MAR,Africa,Terciaria,2010,75744
+Mozambique,MOZ,Africa,Terciaria,2010,12023
+Nepal,NPL,Asia,Terciaria,2010,46968
+Netherlands,NLD,Europa,Terciaria,2010,131545
+New Zealand,NZL,Oceania,Terciaria,2010,60719
+Niger,NER,Africa,Terciaria,2010,2969
+Norway,NOR,Europa,Terciaria,2010,37844
+Oman,OMN,Asia,Terciaria,2010,13734
+Panama,PAN,America,Terciaria,2010,21821
+Philippines,PHL,Asia,Terciaria,2010,481331
+Poland,POL,Europa,Terciaria,2010,624799
+Portugal,PRT,Europa,Terciaria,2010,78609
+Qatar,QAT,Asia,Terciaria,2010,1629
+Romania,ROU,Europa,Terciaria,2010,305360
+Rwanda,RWA,Africa,Terciaria,2010,10111
+Saudi Arabia,SAU,Asia,Terciaria,2010,115790
+Serbia,SRB,Europa,Terciaria,2010,43545
+Slovak Republic,SVK,Europa,Terciaria,2010,76899
+Slovenia,SVN,Europa,Terciaria,2010,19694
+Spain,ESP,Europa,Terciaria,2010,336810
+Sri Lanka,LKA,Asia,Terciaria,2010,27913
+Sweden,SWE,Europa,Terciaria,2010,61217
+Switzerland,CHE,Europa,Terciaria,2010,84965
+Syrian Arab Republic,SYR,Asia,Terciaria,2010,65207
+Thailand,THA,Asia,Terciaria,2010,534736
+Tunisia,TUN,Africa,Terciaria,2010,88172
+Turkey,TUR,Europa,Terciaria,2010,573159
+Ukraine,UKR,Europa,Terciaria,2010,650450
+United Arab Emirates,ARE,Asia,Terciaria,2010,17829
+United Kingdom,GBR,Africa,Terciaria,2010,709880
+United States,USA,America,Terciaria,2010,2997614
+Uruguay,URY,America,Terciaria,2010,7551
+Uzbekistan,UZB,Asia,Terciaria,2010,72600
+Vietnam,VNM,Asia,Terciaria,2010,273301
+West Bank and Gaza,PSE,Asia,Terciaria,2010,30206
+Zimbabwe,ZWE,Africa,Terciaria,2010,30510
+Albania,ALB,Europa,Terciaria,2011,23046
+Algeria,DZA,Africa,Terciaria,2011,208536
+Antigua and Barbuda,ATG,America,Terciaria,2011,108
+Argentina,ARG,America,Terciaria,2011,222000
+Armenia,ARM,Asia,Terciaria,2011,37466
+Aruba,ABW,America,Terciaria,2011,351
+Australia,AUS,Oceania,Terciaria,2011,386625
+Austria,AUT,Europa,Terciaria,2011,75221
+Azerbaijan,AZE,Asia,Terciaria,2011,47345
+Bangladesh,BGD,Asia,Terciaria,2011,302965
+Barbados,BRB,America,Terciaria,2011,2389
+Belarus,BLR,Europa,Terciaria,2011,122134
+Belgium,BEL,Europa,Terciaria,2011,105271
+Belize,BLZ,America,Terciaria,2011,1517
+Benin,BEN,Africa,Terciaria,2011,16713
+Bermuda,BMU,America,Terciaria,2011,96
+Bosnia and Herzegovina,BIH,Europa,Terciaria,2011,19680
+Brazil,BRA,America,Terciaria,2011,1072267
+Brunei Darussalam,BRN,Asia,Terciaria,2011,1813
+Bulgaria,BGR,Europa,Terciaria,2011,64043
+Burkina Faso,BFA,Africa,Terciaria,2011,14782
+Burundi,BDI,Africa,Terciaria,2011,5028
+Cambodia,KHM,Asia,Terciaria,2011,32177
+Cameroon,CMR,Africa,Terciaria,2011,36310
+China,CHN,Asia,Terciaria,2011,8733298
+Colombia,COL,America,Terciaria,2011,235203
+Costa Rica,CRI,America,Terciaria,2011,40310
+Croatia,HRV,Europa,Terciaria,2011,38789
+Cuba,CUB,America,Terciaria,2011,152441
+Cyprus,CYP,Europa,Terciaria,2011,5931
+Czech Republic,CZE,Europa,Terciaria,2011,107118
+Denmark,DNK,Europa,Terciaria,2011,57516
+El Salvador,SLV,America,Terciaria,2011,20284
+Estonia,EST,Europa,Terciaria,2011,11828
+Eswatini,SWZ,Africa,Terciaria,2011,2211
+Ethiopia,ETH,Africa,Terciaria,2011,108400
+Finland,FIN,Europa,Terciaria,2011,51441
+Georgia,GEO,Asia,Terciaria,2011,26589
+Greece,GRC,Europa,Terciaria,2011,65291
+Guyana,GUY,America,Terciaria,2011,1701
+Hungary,HUN,Europa,Terciaria,2011,67857
+Italy,ITA,Europa,Terciaria,2011,388837
+Japan,JPN,Asia,Terciaria,2011,968807
+Jordan,JOR,Asia,Terciaria,2011,60686
+Kyrgyz Republic,KGZ,Asia,Terciaria,2011,45420
+Lao PDR,LAO,Asia,Terciaria,2011,34673
+Latvia,LVA,Europa,Terciaria,2011,24853
+Lebanon,LBN,Asia,Terciaria,2011,34007
+Liechtenstein,LIE,Europa,Terciaria,2011,254
+Lithuania,LTU,Europa,Terciaria,2011,43419
+Malta,MLT,Europa,Terciaria,2011,3393
+Mexico,MEX,America,Terciaria,2011,499303
+Moldova,MDA,Europa,Terciaria,2011,36026
+Mongolia,MNG,Asia,Terciaria,2011,35847
+Morocco,MAR,Africa,Terciaria,2011,82346
+Mozambique,MOZ,Africa,Terciaria,2011,10070
+Myanmar,MMR,Asia,Terciaria,2011,134624
+Nepal,NPL,Asia,Terciaria,2011,48162
+Netherlands,NLD,Europa,Terciaria,2011,138772
+New Zealand,NZL,Oceania,Terciaria,2011,67749
+Norway,NOR,Europa,Terciaria,2011,40379
+Panama,PAN,America,Terciaria,2011,22172
+Philippines,PHL,Asia,Terciaria,2011,496949
+Poland,POL,Europa,Terciaria,2011,648045
+Portugal,PRT,Europa,Terciaria,2011,87129
+Puerto Rico,PRI,America,Terciaria,2011,29956
+Qatar,QAT,Asia,Terciaria,2011,2100
+Romania,ROU,Europa,Terciaria,2011,259634
+Russian Federation,RUS,Europa,Terciaria,2011,2075040
+Saudi Arabia,SAU,Asia,Terciaria,2011,120780
+Serbia,SRB,Europa,Terciaria,2011,46162
+Seychelles,SYC,Africa,Terciaria,2011,60
+Slovak Republic,SVK,Europa,Terciaria,2011,74556
+Slovenia,SVN,Europa,Terciaria,2011,20461
+Spain,ESP,Europa,Terciaria,2011,381926
+Sri Lanka,LKA,Asia,Terciaria,2011,28285
+Sweden,SWE,Europa,Terciaria,2011,69322
+Switzerland,CHE,Europa,Terciaria,2011,78918
+Syrian Arab Republic,SYR,Asia,Terciaria,2011,65773
+Tunisia,TUN,Africa,Terciaria,2011,77301
+Turkey,TUR,Europa,Terciaria,2011,534055
+Ukraine,UKR,Europa,Terciaria,2011,670080
+United Arab Emirates,ARE,Asia,Terciaria,2011,19366
+United Kingdom,GBR,Africa,Terciaria,2011,754310
+United States,USA,America,Terciaria,2011,3164951
+Uzbekistan,UZB,Asia,Terciaria,2011,77217
+West Bank and Gaza,PSE,Asia,Terciaria,2011,31702
+Zimbabwe,ZWE,Africa,Terciaria,2011,15751
+Algeria,DZA,Africa,Terciaria,1983,7800
+Australia,AUS,Oceania,Terciaria,1983,34890
+Austria,AUT,Europa,Terciaria,1983,9551
+Bahrain,BHR,Asia,Terciaria,1983,420
+Bangladesh,BGD,Asia,Terciaria,1983,42337
+Barbados,BRB,America,Terciaria,1983,1118
+Belarus,BLR,Europa,Terciaria,1983,31200
+Belgium,BEL,Europa,Terciaria,1983,18086
+Bermuda,BMU,America,Terciaria,1983,142
+Bolivia,BOL,America,Terciaria,1983,3356
+Botswana,BWA,Africa,Terciaria,1983,269
+Bulgaria,BGR,Europa,Terciaria,1983,21241
+Burundi,BDI,Africa,Terciaria,1983,255
+Cameroon,CMR,Africa,Terciaria,1983,1804
+Canada,CAN,America,Terciaria,1983,162443
+Central African Republic,CAF,Africa,Terciaria,1983,255
+Chile,CHL,America,Terciaria,1983,19469
+China,CHN,Asia,Terciaria,1983,149133
+Costa Rica,CRI,America,Terciaria,1983,4312
+Cuba,CUB,America,Terciaria,1983,20170
+Cyprus,CYP,Europa,Terciaria,1983,820
+Czech Republic,CZE,Europa,Terciaria,1983,19309
+Denmark,DNK,Europa,Terciaria,1983,18265
+Ecuador,ECU,America,Terciaria,1983,15441
+El Salvador,SLV,America,Terciaria,1983,5083
+Eswatini,SWZ,Africa,Terciaria,1983,400
+Ethiopia,ETH,Africa,Terciaria,1983,4050
+Finland,FIN,Europa,Terciaria,1983,25680
+France,FRA,Europa,Terciaria,1983,269841
+Ghana,GHA,Africa,Terciaria,1983,2212
+Greece,GRC,Europa,Terciaria,1983,24184
+Grenada,GRD,America,Terciaria,1983,245
+Guinea,GIN,Africa,Terciaria,1983,3501
+Guyana,GUY,America,Terciaria,1983,511
+Honduras,HND,America,Terciaria,1983,1350
+Hungary,HUN,Europa,Terciaria,1983,25181
+Indonesia,IDN,Asia,Terciaria,1983,64668
+Ireland,IRL,Europa,Terciaria,1983,8736
+Israel,ISR,Asia,Terciaria,1983,10068
+Italy,ITA,Europa,Terciaria,1983,87731
+Japan,JPN,Asia,Terciaria,1983,580204
+Jordan,JOR,Asia,Terciaria,1983,12404
+Kuwait,KWT,Asia,Terciaria,1983,3071
+Lao PDR,LAO,Asia,Terciaria,1983,360
+Lebanon,LBN,Asia,Terciaria,1983,9265
+Lesotho,LSO,Africa,Terciaria,1983,617
+Malawi,MWI,Africa,Terciaria,1983,701
+Malaysia,MYS,Asia,Terciaria,1983,7277
+Malta,MLT,Europa,Terciaria,1983,352
+Mauritius,MUS,Africa,Terciaria,1983,330
+Mexico,MEX,America,Terciaria,1983,85505
+Mongolia,MNG,Asia,Terciaria,1983,8000
+Morocco,MAR,Africa,Terciaria,1983,6545
+Netherlands,NLD,Europa,Terciaria,1983,55998
+New Zealand,NZL,Oceania,Terciaria,1983,10989
+Nicaragua,NIC,America,Terciaria,1983,1462
+Niger,NER,Africa,Terciaria,1983,372
+Nigeria,NGA,Africa,Terciaria,1983,17215
+Panama,PAN,America,Terciaria,1983,2969
+Papua New Guinea,PNG,Oceania,Terciaria,1983,1471
+Philippines,PHL,Asia,Terciaria,1983,242242
+Poland,POL,Europa,Terciaria,1983,131083
+Portugal,PRT,Europa,Terciaria,1983,10461
+Qatar,QAT,Asia,Terciaria,1983,488
+Rwanda,RWA,Africa,Terciaria,1983,324
+Saudi Arabia,SAU,Asia,Terciaria,1983,9659
+Senegal,SEN,Africa,Terciaria,1983,2666
+Singapore,SGP,Asia,Terciaria,1983,7671
+Slovenia,SVN,Europa,Terciaria,1983,6614
+Spain,ESP,Europa,Terciaria,1983,88387
+Sri Lanka,LKA,Asia,Terciaria,1983,9124
+St. Lucia,LCA,America,Terciaria,1983,190
+Syrian Arab Republic,SYR,Asia,Terciaria,1983,14469
+Tanzania,TZA,Africa,Terciaria,1983,954
+Trinidad and Tobago,TTO,America,Terciaria,1983,394
+Tunisia,TUN,Africa,Terciaria,1983,4938
+Turkey,TUR,Europa,Terciaria,1983,44542
+Uganda,UGA,Africa,Terciaria,1983,1529
+Ukraine,UKR,Europa,Terciaria,1983,148900
+United Arab Emirates,ARE,Asia,Terciaria,1983,725
+United Kingdom,GBR,Africa,Terciaria,1983,164301
+United States,USA,America,Terciaria,1983,1787798
+Uruguay,URY,America,Terciaria,1983,3358
+Virgin Islands (U.S.),VIR,America,Terciaria,1983,221
+Zambia,ZMB,Africa,Terciaria,1983,2009
+Zimbabwe,ZWE,Africa,Terciaria,1983,2444
+Afghanistan,AFG,Asia,Terciaria,2007,6858
+Albania,ALB,Europa,Terciaria,2007,9767
+Algeria,DZA,Africa,Terciaria,2007,120168
+American Samoa,ASM,Oceania,Terciaria,2007,106
+Argentina,ARG,America,Terciaria,2007,236060
+Armenia,ARM,Asia,Terciaria,2007,26023
+Aruba,ABW,America,Terciaria,2007,300
+Australia,AUS,Oceania,Terciaria,2007,295885
+Austria,AUT,Europa,Terciaria,2007,36429
+Barbados,BRB,America,Terciaria,2007,1733
+Belarus,BLR,Europa,Terciaria,2007,108251
+Bermuda,BMU,America,Terciaria,2007,167
+Bosnia and Herzegovina,BIH,Europa,Terciaria,2007,12763
+Brazil,BRA,America,Terciaria,2007,820473
+Brunei Darussalam,BRN,Asia,Terciaria,2007,1613
+Bulgaria,BGR,Europa,Terciaria,2007,45353
+Cambodia,KHM,Asia,Terciaria,2007,16187
+Cayman Islands,CYM,America,Terciaria,2007,190
+Chile,CHL,America,Terciaria,2007,87485
+China,CHN,Asia,Terciaria,2007,5872815
+Colombia,COL,America,Terciaria,2007,105866
+Costa Rica,CRI,America,Terciaria,2007,30751
+Croatia,HRV,Europa,Terciaria,2007,22228
+Cuba,CUB,America,Terciaria,2007,97282
+Cyprus,CYP,Europa,Terciaria,2007,4445
+Czech Republic,CZE,Europa,Terciaria,2007,77580
+Denmark,DNK,Europa,Terciaria,2007,50849
+Ecuador,ECU,America,Terciaria,2007,62972
+El Salvador,SLV,America,Terciaria,2007,14811
+Estonia,EST,Europa,Terciaria,2007,12612
+Finland,FIN,Europa,Terciaria,2007,42296
+France,FRA,Europa,Terciaria,2007,621444
+Georgia,GEO,Asia,Terciaria,2007,34657
+Greece,GRC,Europa,Terciaria,2007,60475
+Guatemala,GTM,America,Terciaria,2007,6073
+Guyana,GUY,America,Terciaria,2007,1627
+Hungary,HUN,Europa,Terciaria,2007,67224
+Iceland,ISL,Europa,Terciaria,2007,3541
+Ireland,IRL,Europa,Terciaria,2007,59011
+Italy,ITA,Europa,Terciaria,2007,400021
+Japan,JPN,Asia,Terciaria,2007,1062444
+Jordan,JOR,Asia,Terciaria,2007,49574
+Kyrgyz Republic,KGZ,Asia,Terciaria,2007,31321
+Latvia,LVA,Europa,Terciaria,2007,26752
+Lebanon,LBN,Asia,Terciaria,2007,32168
+Liechtenstein,LIE,Europa,Terciaria,2007,146
+Lithuania,LTU,Europa,Terciaria,2007,43153
+Madagascar,MDG,Africa,Terciaria,2007,13176
+Malawi,MWI,Africa,Terciaria,2007,1299
+Malaysia,MYS,Asia,Terciaria,2007,181404
+Malta,MLT,Europa,Terciaria,2007,2729
+Mexico,MEX,America,Terciaria,2007,422267
+Moldova,MDA,Europa,Terciaria,2007,21606
+Mongolia,MNG,Asia,Terciaria,2007,25938
+Morocco,MAR,Africa,Terciaria,2007,88137
+Myanmar,MMR,Asia,Terciaria,2007,104590
+Netherlands,NLD,Europa,Terciaria,2007,123321
+New Zealand,NZL,Oceania,Terciaria,2007,57815
+Norway,NOR,Europa,Terciaria,2007,35410
+Oman,OMN,Asia,Terciaria,2007,9129
+Panama,PAN,America,Terciaria,2007,20182
+Poland,POL,Europa,Terciaria,2007,532827
+Portugal,PRT,Europa,Terciaria,2007,83276
+Qatar,QAT,Asia,Terciaria,2007,1484
+Romania,ROU,Europa,Terciaria,2007,205806
+Russian Federation,RUS,Europa,Terciaria,2007,1985478
+Saudi Arabia,SAU,Asia,Terciaria,2007,103789
+Serbia,SRB,Europa,Terciaria,2007,31473
+Slovak Republic,SVK,Europa,Terciaria,2007,46379
+Slovenia,SVN,Europa,Terciaria,2007,16680
+Spain,ESP,Europa,Terciaria,2007,279412
+Sweden,SWE,Europa,Terciaria,2007,60243
+Switzerland,CHE,Europa,Terciaria,2007,75650
+Syrian Arab Republic,SYR,Asia,Terciaria,2007,40131
+Thailand,THA,Asia,Terciaria,2007,500731
+Tunisia,TUN,Africa,Terciaria,2007,58598
+Turkey,TUR,Europa,Terciaria,2007,416329
+Ukraine,UKR,Europa,Terciaria,2007,558823
+United Arab Emirates,ARE,Asia,Terciaria,2007,13060
+United Kingdom,GBR,Africa,Terciaria,2007,651059
+United States,USA,America,Terciaria,2007,2704070
+Uruguay,URY,America,Terciaria,2007,8902
+Uzbekistan,UZB,Asia,Terciaria,2007,61400
+Vietnam,VNM,Asia,Terciaria,2007,242026
+Virgin Islands (U.S.),VIR,America,Terciaria,2007,321
+West Bank and Gaza,PSE,Asia,Terciaria,2007,21851
+Afghanistan,AFG,Asia,Terciaria,2008,9270
+Albania,ALB,Europa,Terciaria,2008,15653
+Andorra,AND,Europa,Terciaria,2008,42
+Argentina,ARG,America,Terciaria,2008,235861
+Armenia,ARM,Asia,Terciaria,2008,28135
+Aruba,ABW,America,Terciaria,2008,286
+Australia,AUS,Oceania,Terciaria,2008,306901
+Austria,AUT,Europa,Terciaria,2008,43645
+Azerbaijan,AZE,Asia,Terciaria,2008,49196
+Bangladesh,BGD,Asia,Terciaria,2008,184911
+Belarus,BLR,Europa,Terciaria,2008,112882
+Belgium,BEL,Europa,Terciaria,2008,97248
+Bosnia and Herzegovina,BIH,Europa,Terciaria,2008,15767
+Brazil,BRA,America,Terciaria,2008,917111
+Brunei Darussalam,BRN,Asia,Terciaria,2008,1544
+Bulgaria,BGR,Europa,Terciaria,2008,54910
+Cambodia,KHM,Asia,Terciaria,2008,16708
+Cameroon,CMR,Africa,Terciaria,2008,33991
+Cayman Islands,CYM,America,Terciaria,2008,224
+Chile,CHL,America,Terciaria,2008,92230
+China,CHN,Asia,Terciaria,2008,7071047
+Colombia,COL,America,Terciaria,2008,134923
+Costa Rica,CRI,America,Terciaria,2008,31847
+Croatia,HRV,Europa,Terciaria,2008,26938
+Cuba,CUB,America,Terciaria,2008,103761
+Cyprus,CYP,Europa,Terciaria,2008,4228
+Czech Republic,CZE,Europa,Terciaria,2008,88975
+Denmark,DNK,Europa,Terciaria,2008,49754
+Ecuador,ECU,America,Terciaria,2008,70193
+El Salvador,SLV,America,Terciaria,2008,15801
+Estonia,EST,Europa,Terciaria,2008,11345
+Ethiopia,ETH,Africa,Terciaria,2008,65373
+France,FRA,Europa,Terciaria,2008,628089
+Georgia,GEO,Asia,Terciaria,2008,55369
+Greece,GRC,Europa,Terciaria,2008,66956
+Guyana,GUY,America,Terciaria,2008,1746
+Honduras,HND,America,Terciaria,2008,13814
+Hungary,HUN,Europa,Terciaria,2008,63331
+Iceland,ISL,Europa,Terciaria,2008,3627
+Ireland,IRL,Europa,Terciaria,2008,60074
+Italy,ITA,Europa,Terciaria,2008,398194
+Japan,JPN,Asia,Terciaria,2008,1033774
+Kyrgyz Republic,KGZ,Asia,Terciaria,2008,35578
+Latvia,LVA,Europa,Terciaria,2008,24170
+Lebanon,LBN,Asia,Terciaria,2008,32297
+Liechtenstein,LIE,Europa,Terciaria,2008,176
+Lithuania,LTU,Europa,Terciaria,2008,42547
+Luxembourg,LUX,Europa,Terciaria,2008,338
+Madagascar,MDG,Africa,Terciaria,2008,16395
+Malaysia,MYS,Asia,Terciaria,2008,206588
+Malta,MLT,Europa,Terciaria,2008,2792
+Mexico,MEX,America,Terciaria,2008,420479
+Moldova,MDA,Europa,Terciaria,2008,27056
+Mongolia,MNG,Asia,Terciaria,2008,29599
+Morocco,MAR,Africa,Terciaria,2008,62727
+Mozambique,MOZ,Africa,Terciaria,2008,7050
+Namibia,NAM,Africa,Terciaria,2008,5525
+Nepal,NPL,Asia,Terciaria,2008,44458
+Netherlands,NLD,Europa,Terciaria,2008,124228
+New Zealand,NZL,Oceania,Terciaria,2008,54445
+Niger,NER,Africa,Terciaria,2008,1871
+Norway,NOR,Europa,Terciaria,2008,35214
+Panama,PAN,America,Terciaria,2008,21061
+Poland,POL,Europa,Terciaria,2008,558023
+Portugal,PRT,Europa,Terciaria,2008,84009
+Puerto Rico,PRI,America,Terciaria,2008,33670
+Qatar,QAT,Asia,Terciaria,2008,1789
+Romania,ROU,Europa,Terciaria,2008,311475
+Saudi Arabia,SAU,Asia,Terciaria,2008,112132
+Serbia,SRB,Europa,Terciaria,2008,36330
+Slovak Republic,SVK,Europa,Terciaria,2008,65026
+Slovenia,SVN,Europa,Terciaria,2008,17221
+Spain,ESP,Europa,Terciaria,2008,291036
+Sweden,SWE,Europa,Terciaria,2008,60434
+Switzerland,CHE,Europa,Terciaria,2008,67334
+Syrian Arab Republic,SYR,Asia,Terciaria,2008,51321
+Thailand,THA,Asia,Terciaria,2008,541886
+Tunisia,TUN,Africa,Terciaria,2008,61239
+Turkey,TUR,Europa,Terciaria,2008,444758
+Ukraine,UKR,Europa,Terciaria,2008,610230
+United Arab Emirates,ARE,Asia,Terciaria,2008,14318
+United Kingdom,GBR,Africa,Terciaria,2008,676200
+United States,USA,America,Terciaria,2008,2782270
+Uruguay,URY,America,Terciaria,2008,9470
+Uzbekistan,UZB,Asia,Terciaria,2008,73727
+Vietnam,VNM,Asia,Terciaria,2008,243517
+West Bank and Gaza,PSE,Asia,Terciaria,2008,25275
+Algeria,DZA,Africa,Terciaria,1981,999999999
+Australia,AUS,Oceania,Terciaria,1981,66069
+Austria,AUT,Europa,Terciaria,1981,8553
+Bahrain,BHR,Asia,Terciaria,1981,92345
+Bangladesh,BGD,Asia,Terciaria,1981,31472
+Belarus,BLR,Europa,Terciaria,1981,31300
+Belgium,BEL,Europa,Terciaria,1981,15966
+Bermuda,BMU,America,Terciaria,1981,106
+Bolivia,BOL,America,Terciaria,1981,1272
+Brazil,BRA,America,Terciaria,1981,241066
+Brunei Darussalam,BRN,Asia,Terciaria,1981,789067896
+Bulgaria,BGR,Europa,Terciaria,1981,28235
+Burundi,BDI,Africa,Terciaria,1981,1567000
+Canada,CAN,America,Terciaria,1981,159089
+Chile,CHL,America,Terciaria,1981,20037
+China,CHN,Asia,Terciaria,1981,85085
+Colombia,COL,America,Terciaria,1981,28573
